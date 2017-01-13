@@ -6,9 +6,50 @@
 Welcome to Australian Taxation Docs's documentation!
 ====================================================
 
+.. _IndividualReturn-docs:
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: About Individual Returns
+
+	 individual
+   individual/index
+
+.. _PartnershipReturn-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About Partnership Returns
+
+	 partnership
+   partnership/index
+
+.. _TrustReturn-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About Trust Returns
+
+	 trust
+   trust/index
+
+.. _CompanyReturn-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About Company Returns
+
+	 company
+   company/index
+
+.. _BusinessActivityStatement-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About Business Activity Statements
+
+	 bas
+   bas/index
 
 
 
