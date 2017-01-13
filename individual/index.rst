@@ -5,6 +5,7 @@ This document will show you what each of the fields of the return are for and re
 
 .. toctree::
   :maxdepth: 2
+
   cover
   income
   deductions
