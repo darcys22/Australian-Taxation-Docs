@@ -12,7 +12,6 @@ Welcome to Australian Taxation Docs's documentation!
    :maxdepth: 2
    :caption: Individual Returns
 
-	 individual
    individual/index
 
 .. _PartnershipReturn-docs:
@@ -21,7 +20,6 @@ Welcome to Australian Taxation Docs's documentation!
    :maxdepth: 2
    :caption: Partnership Returns
 
-	 partnership
    partnership/index
 
 .. _TrustReturn-docs:
@@ -30,7 +28,6 @@ Welcome to Australian Taxation Docs's documentation!
    :maxdepth: 2
    :caption: Trust Returns
 
-	 trust
    trust/index
 
 .. _CompanyReturn-docs:
@@ -39,7 +36,6 @@ Welcome to Australian Taxation Docs's documentation!
    :maxdepth: 2
    :caption: Company Returns
 
-	 company
    company/index
 
 .. _BusinessActivityStatement-docs:
@@ -48,7 +44,6 @@ Welcome to Australian Taxation Docs's documentation!
    :maxdepth: 2
    :caption: Business Activity Statements
 
-	 bas
    bas/index
 
 
