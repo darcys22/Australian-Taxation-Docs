@@ -10,7 +10,7 @@ Welcome to Australian Taxation Docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: About Individual Returns
+   :caption: Individual Returns
 
 	 individual
    individual/index
@@ -19,7 +19,7 @@ Welcome to Australian Taxation Docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: About Partnership Returns
+   :caption: Partnership Returns
 
 	 partnership
    partnership/index
@@ -28,7 +28,7 @@ Welcome to Australian Taxation Docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: About Trust Returns
+   :caption: Trust Returns
 
 	 trust
    trust/index
@@ -37,7 +37,7 @@ Welcome to Australian Taxation Docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: About Company Returns
+   :caption: Company Returns
 
 	 company
    company/index
@@ -46,7 +46,7 @@ Welcome to Australian Taxation Docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: About Business Activity Statements
+   :caption: Business Activity Statements
 
 	 bas
    bas/index
