@@ -1,7 +1,7 @@
 .. _individual-index:
 
-Introduction
-===============
+Individual Returns
+==================
 
 This document will show you what each of the fields of the return are for and require
 
